@@ -19,7 +19,7 @@
       
 }
 .banner {
-    background-image: url(/portfolio/Images/Beach.jpg);
+    background-image: url(../Images/Beach.jpg);
     background-size: cover;
     background-repeat:no-repeat;
     padding: 250px 0;
